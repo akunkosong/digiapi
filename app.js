@@ -6,7 +6,10 @@ dotenv.config();
 require('./config/firebase'); // init Firebase Admin
 
 app.use(express.json());
-
+app.get('/', (req, res) => {
+    res.send('DIGISCHOOL API is running 🚀');
+  });
+  
 app.use('/api/auth', require('./routes/authRoutes'));
 app.use('/api/data', require('./routes/dataRoutes'));
 
