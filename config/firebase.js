@@ -1,5 +1,5 @@
 const admin = require('firebase-admin');
-const serviceAccount = require('../google-service-account.json');
+const serviceAccount = require('../google-services.json');
 const path = require('path');
 
 admin.initializeApp({
