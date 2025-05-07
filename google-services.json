@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55292646553",
+    "firebase_url": "https://digitalent-e9143-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "digitalent-e9143",
+    "storage_bucket": "digitalent-e9143.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55292646553:android:d6a48a1d4c3f8031ab9408",
+        "android_client_info": {
+          "package_name": "com.talentiva.digitalent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55292646553-k61jpj6l8hsqtg9kqil0bheml3hkggue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR9JrrPazfBeAdGq9YshPhZbSC58gl468"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55292646553-k61jpj6l8hsqtg9kqil0bheml3hkggue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
